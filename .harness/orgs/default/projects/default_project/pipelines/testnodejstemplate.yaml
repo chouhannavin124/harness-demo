@@ -1,0 +1,9 @@
+pipeline:
+  name: test-nodejs-template
+  identifier: testnodejstemplate
+  tags: {}
+  template:
+    templateRef: nodejscitemplate
+    versionLabel: v1.000
+  projectIdentifier: default_project
+  orgIdentifier: default
